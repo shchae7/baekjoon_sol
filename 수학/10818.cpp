@@ -1,3 +1,8 @@
+/*
+최소, 최대
+알고리즘 분류: 수학, 구현
+*/
+
 #include <iostream>
 #include <vector>
 #include <algorithm>

@@ -1,3 +1,8 @@
+/*
+더하기 사이클
+알고리즘 분류: 수학, 구현
+*/
+
 #include <iostream>
 
 using namespace std;

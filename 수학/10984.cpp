@@ -1,3 +1,8 @@
+/*
+내 학점을 구해줘
+알고리즘 분류: 수학, 구현, 사칙연산
+*/
+
 #include <iostream>
 #include <iomanip>
 

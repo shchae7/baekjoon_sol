@@ -1,3 +1,8 @@
+/*
+평균
+알고리즘 분류: 수학, 사칙연산
+*/
+
 #include <iostream>
 #include <vector>
 

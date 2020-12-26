@@ -1,3 +1,8 @@
+/*
+별 찍기 - 13
+알고리즘 분류: 구현
+*/
+
 #include <iostream>
 
 using namespace std;

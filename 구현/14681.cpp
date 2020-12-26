@@ -1,3 +1,8 @@
+/*
+사분면 고르기
+알고리즘 분류: 구현, 기하학
+*/
+
 #include <iostream>
 
 using namespace std;
